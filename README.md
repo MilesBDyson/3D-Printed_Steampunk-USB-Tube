@@ -3,6 +3,8 @@ Steampunk-USB
 
 A vacume tube style USB thumb drive with a steam punk theme
 
+![assembly](images/assembly.jpg)
+
 Materials:
 
 * #4 x 1/2" self tapping screws             17
