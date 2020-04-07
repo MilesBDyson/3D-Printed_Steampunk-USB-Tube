@@ -17,3 +17,4 @@ A vacume tube style USB thumb drive with a steam punk theme
 | 4" length Cat5e cable                  |1    |
 | Super glue or Model glue               |1    |
 | 5mm LED color of your choice           |1    |
+| 470 ohm resistor                       |1    |
