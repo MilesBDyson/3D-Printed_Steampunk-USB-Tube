@@ -3,7 +3,7 @@ Steampunk-USB
 
 A vacume tube style USB thumb drive with a steam punk theme
 
-![assembly](images/assembly.jpg)
+![assembly](images/Assembly.png)
 
 Materials:
 
