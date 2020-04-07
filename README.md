@@ -5,7 +5,6 @@ A vacume tube style USB thumb drive with a steam punk theme
 
 ![assembly](images/Assembly.png)
 
-Materials:
 | Materials                               |Count|
 |-----------------------------------------|-----|
 |* #4 x 1/2" self tapping screws          |17   |
