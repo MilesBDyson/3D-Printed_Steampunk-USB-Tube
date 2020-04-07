@@ -1,7 +1,7 @@
 Steampunk-USB
 =============
 
-A vacume tube style usb thumb drive with a steam punk theme
+A vacume tube style USB thumb drive with a steam punk theme
 
 Materials:
 
