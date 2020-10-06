@@ -1,4 +1,4 @@
-Steampunk-USB
+Steampunk-USB-Tube
 =============
 
 A Steampunk themed illuminated Vacume Tube USB thumb drive with base. 
